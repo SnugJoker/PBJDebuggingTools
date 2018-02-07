@@ -19,7 +19,7 @@ s.source           = { :git => 'https://github.com/SnugJoker/PBJDebuggingTools.g
 s.ios.deployment_target = '8.0'
 
 s.source_files = 'PBJDebuggingTools/Classes/PBJDLog/*'
-s.public_header_files = 'PBJAnimations/Classes/PBJDLog/*.h'
+s.public_header_files = 'PBJDebuggingTools/Classes/PBJDLog/*.h'
 
 
 end
