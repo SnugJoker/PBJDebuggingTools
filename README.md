@@ -16,6 +16,15 @@ it, simply add the following line to your Podfile:
 pod 'PBJDebuggingTools'
 ```
 
+## How To Use
+To use PBJDebuggingTools first import the class:
+
+```objectivec
+#import <PBJDebuggingTools/PBJDLog.h>
+```
+
+Then simply add one of the methods to your code:
+
 ## Author
 Joseph Razon, razonjoe@gmail.com
 
