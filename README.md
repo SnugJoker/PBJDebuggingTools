@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/PBJDebuggingTools.svg?style=flat)](http://cocoapods.org/pods/PBJDebuggingTools)
 [![Platform](https://img.shields.io/cocoapods/p/PBJDebuggingTools.svg?style=flat)](http://cocoapods.org/pods/PBJDebuggingTools)
 
-#### Content ####       
+### Content       
 * DLog     
 
 ## Requirements
