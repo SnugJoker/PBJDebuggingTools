@@ -1,8 +1,8 @@
 //
 //  PBJDLog.h
-//  MishlochimNative
+//  Joseph Razon (razonjoe@gmail.com)
 //
-//  Created by Joseph Razon on 11/08/2016.
+//  Created by Joseph Razon (razonjoe@gmail.com) on 11/08/2016.
 //  Copyright © 2016 zap. All rights reserved.
 //
 

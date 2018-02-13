@@ -13,7 +13,7 @@ s.summary          = 'Animations & transitions framework.'
 s.description      = 'PBJDebuggingTools is a simple framework for adding animations in no time.'
 s.homepage         = 'https://github.com/SnugJoker/PBJDebuggingTools'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
-s.author           = { 'josephrazon' => 'razonjoe@gmail.com' }
+s.author           = { 'Joseph Razon' => 'razonjoe@gmail.com' }
 s.source           = { :git => 'https://github.com/SnugJoker/PBJDebuggingTools.git', :tag => s.version.to_s }
 
 s.ios.deployment_target = '8.0'
