@@ -11,6 +11,9 @@
 ## Requirements
 No requirements needed.
 
+## Example
+![Screenshot](Screenies/screenshot.png)
+
 ## Installation
 PBJDebuggingTools is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
