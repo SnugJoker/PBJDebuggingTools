@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/PBJDebuggingTools.svg?style=flat)](http://cocoapods.org/pods/PBJDebuggingTools)
 [![License](https://img.shields.io/cocoapods/l/PBJDebuggingTools.svg?style=flat)](http://cocoapods.org/pods/PBJDebuggingTools)
 [![Platform](https://img.shields.io/cocoapods/p/PBJDebuggingTools.svg?style=flat)](http://cocoapods.org/pods/PBJDebuggingTools)
+[![BCH compliance](https://bettercodehub.com/edge/badge/SnugJoker/PBJDebuggingTools?branch=master)](https://bettercodehub.com/)
 
 ### Content       
 * DLog     
