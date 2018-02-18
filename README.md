@@ -30,6 +30,18 @@ To use PBJDebuggingTools first import the class:
 #import <PBJDebuggingTools/PBJDLog.h>
 ```
 
+```objectivec
+DLog("");
+```
+
+```objectivec
+ALog("");
+```
+
+```objectivec
+ULog("");
+```
+
 Then simply add one of the methods to your code:
 
 ## Author
