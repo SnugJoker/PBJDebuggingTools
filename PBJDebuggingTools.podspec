@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'PBJDebuggingTools'
-s.version          = '1.0.0'
+s.version          = '1.0.1'
 s.summary          = 'Animations & transitions framework.'
 s.description      = 'PBJDebuggingTools is a simple framework for adding animations in no time.'
 s.homepage         = 'https://github.com/SnugJoker/PBJDebuggingTools'
