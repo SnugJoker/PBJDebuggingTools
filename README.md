@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/PBJDebuggingTools.svg?style=flat)](http://cocoapods.org/pods/PBJDebuggingTools)
 [![Platform](https://img.shields.io/cocoapods/p/PBJDebuggingTools.svg?style=flat)](http://cocoapods.org/pods/PBJDebuggingTools)
 [![BCH compliance](https://bettercodehub.com/edge/badge/SnugJoker/PBJDebuggingTools?branch=master)](https://bettercodehub.com/)
+![CocoaPods](https://img.shields.io/cocoapods/dt/PBJDebuggingTools.svg)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/JoeRazon)
 
 
